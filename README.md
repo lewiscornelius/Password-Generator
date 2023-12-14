@@ -1,4 +1,3 @@
-# Password-Generator
 # Password Generator
 
 This is a simple password generator application written in JavaScript. It allows users to customize their passwords by choosing various options such as length, including special characters, numeric characters, lowercase characters, and uppercase characters.
@@ -21,4 +20,4 @@ This is a simple password generator application written in JavaScript. It allows
 
 ## Live Demo
 
-You can try the live demo [here]() .
+You can try the live demo [https://lewiscornelius.github.io/Password-Generator/].
